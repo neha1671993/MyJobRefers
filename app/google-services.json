@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "753841514671",
+    "firebase_url": "https://myjobrefer-8dcdd.firebaseio.com",
+    "project_id": "myjobrefer-8dcdd",
+    "storage_bucket": "myjobrefer-8dcdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753841514671:android:0128ac2fd78faf38",
+        "android_client_info": {
+          "package_name": "com.myjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753841514671-0u4fncjqqdq5n07abd444ae54oh2at28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAYG_VaPmebz13n7V69orB4onWsqc0SCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753841514671:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753841514671-0u4fncjqqdq5n07abd444ae54oh2at28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAYG_VaPmebz13n7V69orB4onWsqc0SCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
